@@ -1,0 +1,262 @@
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\Database.mdf
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\Database_log.ldf
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\TarimOtomasyon.exe.config
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\TarimOtomasyon.exe
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\TarimOtomasyon.pdb
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Data.v21.2.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Printing.v21.2.Core.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Utils.v21.2.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraEditors.v21.2.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraGauges.v21.2.Win.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\FontAwesome.Sharp.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\Newtonsoft.Json.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\System.Security.AccessControl.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\System.Security.Permissions.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraLayout.v21.2.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraBars.v21.2.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Office.v21.2.Core.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Data.v21.2.xml
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Printing.v21.2.Core.xml
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Utils.v21.2.xml
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraEditors.v21.2.xml
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraGauges.v21.2.Core.xml
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraGauges.v21.2.Win.xml
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\Newtonsoft.Json.xml
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\System.Security.AccessControl.xml
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\System.Security.Permissions.xml
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraLayout.v21.2.xml
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraBars.v21.2.xml
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Office.v21.2.Core.xml
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.csproj.AssemblyReference.cache
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.AyarlarForm.resources
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.CiftlikTVForm.resources
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.GirisForm.resources
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.KayitForm.resources
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.MainPage.resources
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.CihazForm.resources
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.Properties.Resources.resources
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.SeraEkleForm.resources
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.SeraForm.resources
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.UyelikForm.resources
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.csproj.GenerateResource.cache
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.exe.licenses
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.csproj.CopyComplete
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.exe
+C:\Users\psiro\source\repos\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.pdb
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\TarimOtomasyon.exe.config
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\TarimOtomasyon.exe
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\TarimOtomasyon.pdb
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Data.v21.2.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Printing.v21.2.Core.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Utils.v21.2.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraBars.v21.2.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraEditors.v21.2.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraGauges.v21.2.Win.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraGrid.v21.2.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraLayout.v21.2.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraScheduler.v21.2.Core.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraScheduler.v21.2.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\FontAwesome.Sharp.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\Newtonsoft.Json.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\System.Security.AccessControl.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\System.Security.Permissions.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Images.v21.2.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Office.v21.2.Core.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Data.v21.2.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Printing.v21.2.Core.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Utils.v21.2.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraBars.v21.2.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraEditors.v21.2.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraGauges.v21.2.Core.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraGauges.v21.2.Win.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraGrid.v21.2.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraLayout.v21.2.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraScheduler.v21.2.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraScheduler.v21.2.Core.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\Newtonsoft.Json.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\System.Security.AccessControl.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\System.Security.Permissions.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\DevExpress.Office.v21.2.Core.xml
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.XtraScheduler.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\Interop.WMPLib.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\AxInterop.WMPLib.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.csproj.AssemblyReference.cache
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\obj\Release\Interop.WMPLib.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\obj\Release\AxInterop.WMPLib.dll
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.csproj.ResolveComReference.cache
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.AyarlarForm.resources
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.CiftlikTVForm.resources
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.GirisForm.resources
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.KayitForm.resources
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.MainPage.resources
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.Properties.Resources.resources
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.SeraEkleForm.resources
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.SeraForm.resources
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.UyelikForm.resources
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.YoneticiForm.resources
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.csproj.GenerateResource.cache
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.exe.licenses
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.csproj.CopyComplete
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.exe
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\obj\Release\TarimOtomasyon.pdb
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\Database.mdf
+C:\Users\psiro\Desktop\Tarım Otomasyon\Kaynak_Kodlar\TarimOtomasyon\TarimOtomasyon\bin\Release\Database_log.ldf
